@@ -1,0 +1,143 @@
+
+.title{
+  background-image: url("modern-city-at-dusk-wallpaper.jpg");
+  background-size: 2000px;
+  padding-bottom: 250px;
+  padding-top: 250px;
+  text-align: center;
+  color: white;
+
+
+}
+
+.introduction_section{
+  background-image: linear-gradient(135deg, #32b0f9 10%, #ff63d3 90%);
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+.ideal_job{
+  background-image: linear-gradient(135deg, #a3ffb7 10%, #45b7db 50%, #036fff 91%);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.personality_profile{
+  background-image: linear-gradient(to right top, #32a5fd, #299bff, #2f90ff, #4084ff, #5476ff, #636dff, #7263ff, #8356ff, #914cff, #9f3fff, #ad2dff, #bc00ff);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.linkup{
+  background-image: linear-gradient(to left top, #ffffff, #f6fcff, #e2fcff, #c9feff, #b5fffb);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+img#selfie{
+  width: auto;
+  height: 230px;
+  float:right;
+  margin-left: 50px;
+  border-radius: 15px;
+}
+img#truity{
+  width: auto;
+  height: 230px;
+  float:right;
+  margin-left: 50px;
+  border-radius: 15px;
+}
+img#truitycorepattern{
+  width: auto;
+  height: 270px;
+  float:right;
+  margin-left: 50px;
+  border-radius: 15px;
+}
+img#joblisting{
+  width: auto;
+  height: 300px;
+  float:left;
+  margin-right: 45px;
+  border-radius: 15px;
+}
+img#myerbriggs{
+  width: auto;
+  height: 500px;
+  float:right;
+  margin-left: 50px;
+  border-radius: 15px;
+}
+h1#maintitle{
+  font-size: 100;
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+  }
+
+h1#pp_title{
+    font-size: 70;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    padding-left: 275px;
+    }
+h1#title_description{
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+  font-size: 45;
+
+  }
+
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+  font-size: 30;
+  margin-left: 275px;
+}
+p{
+  font-family: 'Poppins', sans-serif;
+  font-size:18;
+  background: rgba( 255, 255, 255, 0.1 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4.5px );
+  -webkit-backdrop-filter: blur( 4.5px );
+  border-radius: 10px;
+  padding:25px;
+  margin:30px;
+  margin-left: 260px;
+}
+body{
+
+}
+ul{
+  width:190px;
+  position:fixed;
+  top:0; left:0;
+  background: rgba( 255, 255, 255, 0.2 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 10px );
+  -webkit-backdrop-filter: blur( 10px );
+  border-radius: 10px;
+  padding:25px;
+  margin:20px;
+  margin-top: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16;
+  font-style: italic;
+  list-style-type: none;
+
+}
+ul li{
+  margin:10px;
+  margin-top: 20px;
+  padding:5px;
+
+}
+ul li a:hover{
+  background: white;
+
+}
+a{
+  text-decoration: none;
+  color: #1a1518;
+}
